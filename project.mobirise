@@ -51,12 +51,13 @@
     "publishChangesOnly": true,
     "favicon": false,
     "mbrsiteDomain": "pakuwonresidence",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://pakuwonresidence-mp.com",
+    "gdpr": false,
+    "robotsText": "User-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: https://pakuwonresidene-mp.com/feeds/posts/default?orderby=UPDATED",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {

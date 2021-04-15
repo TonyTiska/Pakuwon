@@ -1,0 +1,11 @@
+User-agent: Mediapartners-Google
+
+Allow:
+
+User-agent: *
+
+Allow: /search
+
+Allow: /
+
+Sitemap: https://pakuwonresidene-mp.com/feeds/posts/default?orderby=UPDATED
