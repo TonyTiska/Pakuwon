@@ -54,9 +54,9 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://pakuwonresidence-mp.com",
+    "siteUrl": "https://pakuwonresidence-mp.com/sitemap.xml",
     "gdpr": false,
-    "robotsText": "User-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: https://pakuwonresidene-mp.com/feeds/posts/default?orderby=UPDATED",
+    "robotsText": "User-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: https://pakuwonresidene-mp.com/sitemap.xml\n",
     "cookiesAlert": false
   },
   "pages": {

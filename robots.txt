@@ -8,4 +8,4 @@ Allow: /search
 
 Allow: /
 
-Sitemap: https://pakuwonresidene-mp.com/feeds/posts/default?orderby=UPDATED
+Sitemap: https://pakuwonresidene-mp.com/sitemap.xml
